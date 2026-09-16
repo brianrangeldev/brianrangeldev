@@ -22,11 +22,6 @@ Sistema de gestão para barbearias com agendamentos, clientes e dashboard.
 ### Videira Portimão
 Plataforma institucional para igreja com foco em experiência do usuário.
 
-![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=brianrangeldev&show_icons=true&theme=highcontrast)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=brianrangeldev&rank_icon=github&show_icons=true&include_all_commits=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api?username=brianrangeldev&rank_icon=github&show_icons=true&include_all_commits=true&theme=highcontrast)
   
-[![Top Langs](https://github-stats-extended.vercel.app//api/top-langs/?username=brianrangeldev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!---
-xumbreks/xumbreks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=brianrangeldev&layout=compact&langs_count=4&hide_values=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=brianrangeldev&layout=compact&langs_count=4&hide_values=true&theme=highcontrast)
